@@ -42,7 +42,7 @@ export default class LeaveReview extends React.Component<
   onLeaveReview = () => {
     stats.userReviewed();
     Linking.openURL(
-      "https://play.google.com/store/apps/details?id=tech.econn.quirk"
+      "https://play.google.com/store/apps/details?id=com.sspedu.quirk"
     );
     this.continue();
   };
