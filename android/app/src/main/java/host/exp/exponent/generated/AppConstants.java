@@ -15,7 +15,7 @@ public class AppConstants {
   public static String INITIAL_URL = "exp://exp.host/@flaque/quirk";
   public static final boolean IS_DETACHED = true;
   public static final String SHELL_APP_SCHEME = "expdf5b51d49bd24fb8bf87d0c11866cff7";
-  public static final String RELEASE_CHANNEL = "v2.4";
+  public static final String RELEASE_CHANNEL = "default";
   public static boolean SHOW_LOADING_VIEW_IN_SHELL_APP = false;
   public static boolean ARE_REMOTE_UPDATES_ENABLED = true;
   public static final List<Constants.EmbeddedResponse> EMBEDDED_RESPONSES;
