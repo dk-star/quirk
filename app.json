@@ -5,7 +5,10 @@
     "slug": "quirk",
     "privacy": "unlisted",
     "sdkVersion": "35.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "2.4.0",
     "orientation": "portrait",
     "githubUrl": "https://github.com/Flaque/quirk",
@@ -18,7 +21,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["assets/**"],
+    "assetBundlePatterns": [
+      "assets/**"
+    ],
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "tech.econn.quirk",
@@ -53,6 +58,7 @@
       "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.9.0-sdk31.0.0-250a3991-b623-4f9c-b07f-0b9ed7e8c4c9.tar.gz",
       "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.9.2-sdk31.0.0-f0c63b44-0556-45f2-b4b9-ff5082f9ef72.tar.gz"
     },
-    "scheme": "exp4d07d66c4b23470393769aad813cee0c"
+    "scheme": "exp4d07d66c4b23470393769aad813cee0c",
+    "description": ""
   }
 }

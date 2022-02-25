@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
-	<string>tech.econn.quirk</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -64,6 +64,8 @@
 	<string>Allow quirk to use your camera</string>
 	<key>NSContactsUsageDescription</key>
 	<string>Allow quirk to access your contacts</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Allow quirk to use your location</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Allow quirk to use your location</string>
 	<key>NSMicrophoneUsageDescription</key>
@@ -76,8 +78,6 @@
 	<string>Give quirk permission to access your photos</string>
 	<key>NSRemindersUsageDescription</key>
 	<string>Allow quirk to access your reminders</string>
-	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Allow quirk to use your location</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>fetch</string>
