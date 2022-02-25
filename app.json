@@ -11,7 +11,7 @@
     ],
     "version": "2.4.0",
     "orientation": "portrait",
-    "githubUrl": "https://github.com/Flaque/quirk",
+    "githubUrl": "https://github.com/dk-star/quirk",
     "primaryColor": "#F8A5C2",
     "splash": {
       "image": "./assets/splash.png",
@@ -26,13 +26,13 @@
     ],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "tech.econn.quirk",
+      "bundleIdentifier": "com.sspedu.quirk",
       "icon": "./assets/ios.png",
       "publishBundlePath": "ios/quirk/Supporting/shell-app.bundle",
       "publishManifestPath": "ios/quirk/Supporting/shell-app-manifest.json"
     },
     "android": {
-      "package": "tech.econn.quirk",
+      "package": "com.sspedu.quirk",
       "permissions": [],
       "icon": "./assets/android.png",
       "versionCode": 17,
@@ -58,7 +58,7 @@
       "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.9.0-sdk31.0.0-250a3991-b623-4f9c-b07f-0b9ed7e8c4c9.tar.gz",
       "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.9.2-sdk31.0.0-f0c63b44-0556-45f2-b4b9-ff5082f9ef72.tar.gz"
     },
-    "scheme": "exp4d07d66c4b23470393769aad813cee0c",
+    "scheme": "expja4uzzvr2vz9cr6evermb6w34ahbgvye",
     "description": ""
   }
 }
